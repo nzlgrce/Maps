@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGoogleMaps</string>
+    <string name="search_location">Search location</string>
+</resources>
